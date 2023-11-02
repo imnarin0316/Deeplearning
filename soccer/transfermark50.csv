@@ -14,7 +14,7 @@ number,name,position,age,nation,team,value
 13,Federico Valverde,Central Midfield,25,Uruguay,Real Madrid,€100.00m
 14,Declan Rice,Defensive Midfield,24,England,Arsenal FC,€100.00m
 15,Rodri,Defensive Midfield,27,Spain,Manchester City,€100.00m
-16,Moisés Caicedo,Defensive Midfield,21,Ecuador,Chelsea FC,€90.00m
+16,Moisés Caicedo,Defensive Midfield,22,Ecuador,Chelsea FC,€90.00m
 17,Gavi,Central Midfield,19,Spain,FC Barcelona,€90.00m
 18,Eduardo Camavinga,Central Midfield,20,France,Real Madrid,€90.00m
 19,Aurélien Tchouaméni,Defensive Midfield,23,France,Real Madrid,€90.00m
@@ -44,7 +44,7 @@ number,name,position,age,nation,team,value
 43,William Saliba,Centre-Back,22,France,Arsenal FC,€70.00m
 44,Ronald Araújo,Centre-Back,24,Uruguay,FC Barcelona,€70.00m
 45,Dominik Szoboszlai,Central Midfield,23,Hungary,Liverpool FC,€70.00m
-46,Alphonso Davies,Left-Back,22,Canada,Bayern Munich,€70.00m
+46,Alphonso Davies,Left-Back,23,Canada,Bayern Munich,€70.00m
 47,Éder Militão,Centre-Back,25,Brazil,Real Madrid,€70.00m
 48,Dušan Vlahović,Centre-Forward,23,Serbia,Juventus FC,€70.00m
 49,Alexander Isak,Centre-Forward,24,Sweden,Newcastle United,€70.00m
